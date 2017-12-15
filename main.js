@@ -1,6 +1,6 @@
 new Vue({
 
-  el: "#comments",
+  el: "#todos",
 
   data: function(){
     return {
